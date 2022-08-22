@@ -27,3 +27,29 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+storage/.keep
+
+log/.keep
+
+test/controllers/.keep
+
+test/mailers/.keep
+
+test/test_helper.rb
+
+test/models/.keep
+
+tmp/storage/.keep
+
+tmp/.keep
+
+tmp/pids/.keep
+
+vendor/.keep
+
+lib/tasks/.keep
+
+test/integration/.keep
+
+test/fixtures/files/.keep
